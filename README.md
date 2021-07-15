@@ -30,21 +30,21 @@ as possible for it.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/40741680/125788528-fa40e296-996f-4150-93f5-c17b80745bca.png" width="480" height="300" align="center">
 </p>
-
-  * #### Problem Definition
-    Assume that we have a 3 × 3 OLED matrix, which every element of
-this presents how long(number milliseconds) that diode must be on.
-We represent the 3 × 3 matrix with the sum of 3 other 3 × 3 which
-the first matrix close the circuit for every row for a certain amount of
-time, which the total amount of time for this task(first matrix) is the
-maximum value of the first matrix.
-The second matrix is quite similar to the first matrix, instead of rows
-every column is closed for a certain amount of time, which the total
-amount of time for this task(second matrix) is the maximum value of
-the second matrix.
-The third matrix, for every element of the matrix a certain row and
-column are closed therefore the total amount of time for this task(third
-matrix) is the total sum of all the third matirx elements.
+      
+   * #### Problem Definition
+        Assume that we have a 3 × 3 OLED matrix, which every element of
+      this presents how long(number milliseconds) that diode must be on.
+      We represent the 3 × 3 matrix with the sum of 3 other 3 × 3 which
+      the first matrix close the circuit for every row for a certain amount of
+      time, which the total amount of time for this task(first matrix) is the
+      maximum value of the first matrix.
+      The second matrix is quite similar to the first matrix, instead of rows
+      every column is closed for a certain amount of time, which the total
+      amount of time for this task(second matrix) is the maximum value of
+      the second matrix.
+      The third matrix, for every element of the matrix a certain row and
+      column are closed therefore the total amount of time for this task(third
+      matrix) is the total sum of all the third matirx elements.
 
 
 * ### Graph Coloring
