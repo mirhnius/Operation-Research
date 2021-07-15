@@ -1,6 +1,6 @@
 # Operation-Research
 
-This repository includes two projects: **OLED Lifetime** and **Graph Coloring**
+This repository includes two Optimization Projects: **OLED Lifetime** and **Graph Coloring**
 
 
 * ### OLED Lifetime
@@ -27,6 +27,7 @@ current or high peaks of intensity respectively, are the major issues
 with respect to the lifetime of the diodes we try to trade as much time
 as possible for it.
 
+  For more details visit [Here](https://people.mpi-inf.mpg.de/~karrenba/wea07mla.pdf)
 <p align="center">
 <img src="https://user-images.githubusercontent.com/40741680/125788528-fa40e296-996f-4150-93f5-c17b80745bca.png" width="480" height="300" align="center">
 </p>
