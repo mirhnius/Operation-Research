@@ -44,4 +44,20 @@ matrix) is the total sum of all the third matirx elements.
 
 
 * ### Graph Coloring
-  The chromatic number of a graph G is the smallest number of colors
+  The chromatic number of a graph G is the smallest number of colors needed to color the vertices of 𝐺 so that no two adjacent vertices share the same color (Skiena 1990, p. 210), i.e., the smallest value of
+𝑘 possible to obtain a k-coloring. A k-coloring of a graph 𝐺 is a vertex
+coloring that is an assignment of one of 𝑘 possible colors to each vertex
+of 𝐺 (i.e., a vertex coloring) such that no two adjacent vertices receive
+the same color.A vertex coloring is an assignment of labels or colors
+to each vertex of a graph such that no edge connects two identically
+colored vertices. The most common type of vertex coloring seeks to
+minimize the number of colors for a given graph. Such a coloring is
+known as a minimum vertex coloring, and the minimum number of
+colors which with the vertices of a graph 𝐺 may be colored is called
+the chromatic number, denoted 𝑋(𝐺). 
+
+  For more details visit [Here](https://mathworld.wolfram.com/ChromaticNumber.html)
+  ![image]()
+<p align="center">
+<img src="https://user-images.githubusercontent.com/40741680/125787328-041ccb07-0ffe-482d-b520-153ef2978b93.png" width="480" height="300" align="center">
+</p>
