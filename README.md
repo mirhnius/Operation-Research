@@ -27,6 +27,10 @@ current or high peaks of intensity respectively, are the major issues
 with respect to the lifetime of the diodes we try to trade as much time
 as possible for it.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/40741680/125788528-fa40e296-996f-4150-93f5-c17b80745bca.png" width="480" height="300" align="center">
+</p>
+
   * #### Problem Definition
     Assume that we have a 3 × 3 OLED matrix, which every element of
 this presents how long(number milliseconds) that diode must be on.
@@ -57,7 +61,6 @@ colors which with the vertices of a graph 𝐺 may be colored is called
 the chromatic number, denoted 𝑋(𝐺). 
 
   For more details visit [Here](https://mathworld.wolfram.com/ChromaticNumber.html)
-  ![image]()
 <p align="center">
 <img src="https://user-images.githubusercontent.com/40741680/125787328-041ccb07-0ffe-482d-b520-153ef2978b93.png" width="480" height="300" align="center">
 </p>
